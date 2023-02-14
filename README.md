@@ -15,7 +15,7 @@ By default Oria tries to show you the available qualities that average user want
 
 But sometimes you may want to download in a different format, for example when you are on a slow or intermittent connection or you want specific codec. The key mechanism for achieving this is so-called *format selection* based on which you can explicitly specify desired format, select formats based on some criterion or criteria, setup precedence and much more.
 
-You can also use a file extension (currently `3gp`, `aac`, `flv`, `m4a`, `mp3`, `mp4`, `ogg`, `wav`, `webm` are supported) to download the best quality format of a particular file extension served as a single file.
+You can also use a file extension (currently `3gp`, `aac`, `flv`, `m4a`, `mp4`, `ogg`, `wav`, `webm` are supported) to download the best quality format of a particular file extension served as a single file.
 
 # IMPORTANT
 This tool is meant to be used to download CC0 licensed content, we do not support nor recommend using it for illegal activities.

@@ -16,7 +16,7 @@
 
 [](https://user-images.githubusercontent.com/48997634/174793049-67f58409-a449-442f-913c-6a7859a7bf29.png)
 
-**Oria is a free Android app that downloads video and audio.** It provides video resolutions in a range of 144p, 720p, 1080p HD, 2K HD, 4K HD with/without 60 fps and audio formats in MP3, OGG, OPU, M4A and many more, With Oria, users can look for content on all their platforms without using numerous apps. It requires Android Android 5 (API level 21) until Android 13 (API level 33).
+**Oria is a free Android app video and audio downloader.** It provides video resolutions in a range of 144p, 720p, 1080p HD, 2K HD, 4K HD with/without 60 fps and audio formats in MP3, OGG, OPU, M4A and many more. It requires Android Android 5 (API level 21) until Android 13 (API level 33).
 
 Oria comes with awesome features like:
 

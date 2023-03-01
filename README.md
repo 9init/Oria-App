@@ -3,7 +3,7 @@
 
 <!-- PROJECT Intro -->
 
-![Oria](./assets/Oria.jpg)
+![Oria](./assets/Oria.jpeg)
 
 <div align="center">
 
@@ -45,13 +45,13 @@ Here is a sneak peek of the application and it's visuals 😍:
 <table>
   <tr>
     <td>
-      <img src="./assets/home.jpg"
+      <img src="./assets/home.jpeg"
         alt="Home" />
       <br />
       <p align="center">Home</p>
     </td>
     <td>
-      <img src="./assets/media-explorer.jpg"
+      <img src="./assets/media-explorer.jpeg"
         alt="Media explorer" />
       <br />
       <p align="center">Media explorer</p>
@@ -60,13 +60,13 @@ Here is a sneak peek of the application and it's visuals 😍:
 
   <tr>
     <td>
-      <img src="./assets/stat.jpg"
+      <img src="./assets/stat.jpeg"
         alt="Statistics" />
       <br />
       <p align="center">Statistics</p>
     </td>
     <td>
-      <img src="./assets/in-app-search.jpg"
+      <img src="./assets/in-app-search.jpeg"
         alt="In app search" />
       <br />
       <p align="center">In app search</p>
@@ -75,13 +75,13 @@ Here is a sneak peek of the application and it's visuals 😍:
 
    <tr>
     <td>
-      <img src="./assets/s1.jpg"
+      <img src="./assets/s1.jpeg"
         alt="Format drawer" />
       <br />
       <p align="center">Format drawer</p>
     </td>
     <td>
-      <img src="./assets/s2.jpg"
+      <img src="./assets/s2.jpeg"
         alt="Expanded format drawer" />
       <br />
       <p align="center">Expanded format drawer</p>

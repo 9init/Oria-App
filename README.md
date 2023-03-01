@@ -1,21 +1,145 @@
-Oria - download videos and audios from Youtube, Youtube Music, Facebook, Instagram, Twitter, TikTok.
 
-- [DESCRIPTION](#description)
-- [FORMAT SELECTION](#format-selection)
-_ [IMPORTANT](#important)
+<div id="top"></div>
 
-# DESCRIPTION
-**Oria** is a free Android app that downloads video and audio. It provides video resolutions in a range of 144p, 720p, 1080p HD, 2K HD, 4K HD with/without 60 fps and audio formats in MP3, OGG, OPU, M4A and many more, With Oria, users can look for content on all their platforms without using numerous apps. It requires Android Android 5 (API level 21) until Android 13 (API level 33).
+<!-- PROJECT Intro -->
 
+![Oria](./assets/Oria.png)
+
+<div align="center">
+
+  # Oria
+  <a href="https://twitter.com/OriaApp">Twitter</a>
+  <br />
+</div>
+
+<hr />
+
+[](https://user-images.githubusercontent.com/48997634/174793049-67f58409-a449-442f-913c-6a7859a7bf29.png)
+
+**Oria is a free Android app that downloads video and audio.** It provides video resolutions in a range of 144p, 720p, 1080p HD, 2K HD, 4K HD with/without 60 fps and audio formats in MP3, OGG, OPU, M4A and many more, With Oria, users can look for content on all their platforms without using numerous apps. It requires Android Android 5 (API level 21) until Android 13 (API level 33).
+
+Oria comes with awesome features like:
+
+- 🔐 Fast, Reliable and Secure
+- 📱 Compatible with Android 5 and above
+- 💾 Download media with, or without an account
+- 🌠 Can download 4K and HDR videos
+- 🖌️ Night mode
+- 🌍 Almost support the most popular media formats
+- 🕵️‍♂️ Fixable download options 
+  - 🏙️ Download video only
+  - 🎧 Download audio only
+  - 🎬 Download video with audio
+  - 💻 Select your media codec
+- 🤯 Support 70+ media codec
+- ✨ Built on a modern tech stack
+
+This project was created to be the most powerful free android app video downloader for the public, so no wonder it's so feature-rich
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+## 📸 Screenshots
+
+Here is a sneak peek of the application and it's visuals 😍:
+
+<table>
+  <tr>
+    <td>
+      <img src="./assets/home.png"
+        alt="Home" />
+      <br />
+      <p align="center">Home</p>
+    </td>
+    <td>
+      <img src="./assets/media-explorer.png"
+        alt="Media explorer" />
+      <br />
+      <p align="center">Media explorer</p>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="./assets/stat.png"
+        alt="Statistics" />
+      <br />
+      <p align="center">Statistics</p>
+    </td>
+    <td>
+      <img src="./assets/in-app-search.png"
+        alt="In app search" />
+      <br />
+      <p align="center">In app search</p>
+    </td>
+  </tr>
+
+   <tr>
+    <td>
+      <img src="./assets/s1.png"
+        alt="Format drawer" />
+      <br />
+      <p align="center">Format drawer</p>
+    </td>
+    <td>
+      <img src="./assets/s2.png"
+        alt="Expanded format drawer" />
+      <br />
+      <p align="center">Expanded format drawer</p>
+    </td>
+  </tr>
+
+</table>
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+# 🤔 Why does Oria exist?
+
+After looking at all the `aka.ms` links out there which flood windows, along with the numerous time saving been prompted
+to buy premium plans from `bit.ly` while shortening my URLs, the decision of having a reliable, personal URL shortener
+hosted on a custom domain for free caught wind.
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<!-- GETTING STARTED -->
+
+# 💾 Installation
+
+Oria supports the following architectures
+
+- 🛠 [armeabi-v7a](https://github.com/9init/Oria-App/releases/latest/download/app-armeabi-v7a-release.apk)
+- 📦 [arm64-v8a](https://github.com/9init/Oria-App/releases/latest/download/app-arm64-v8a-release.apk)
+- 🐳 [armeabi-v7a/arm64-v8a](https://github.com/9init/Oria-App/releases/latest/download/app-universal-release.apk)
+
+<div align="center">
+  <p align="right">(<a href="#top">back to top</a>)</p>
+
+  # [Download](https://github.com/9init/Oria-App/releases/latest/download/app-universal-release.apk)
+  <br />
+</div>
+
+# 🛣 Help Us
+
+This project is far from perfect, and we'll reach there one day, or at least get close.
 Currently it is platform specific, we are planning to support IOS devices in the future.
+We need your help, please tell us any issue you have faced or any suggestion.
 
-# FORMAT SELECTION
+Have a look at the 🛣 [Roadmap](https://github.com/9init/Oria-App/issues) for a full list of proposed features and
+enhancements.
 
-By default Oria tries to show you the available qualities that average user want to see.
+<p align="right">(<a href="#top">back to top</a>)</p>
 
-But sometimes you may want to download in a different format, for example when you are on a slow or intermittent connection or you want specific codec. The key mechanism for achieving this is so-called *format selection* based on which you can explicitly specify desired format, select formats based on some criterion or criteria, setup precedence and much more.
+# 🌟 Support this project
 
-You can also use a file extension (currently `3gp`, `aac`, `flv`, `m4a`, `mp3`, `mp4`, `ogg`, `wav`, `webm` are supported) to download the best quality format of a particular file extension served as a single file.
+![](https://user-images.githubusercontent.com/48997634/174794647-0c851917-e5c9-4fb9-bf88-b61d89dc2f4f.gif)
 
-# IMPORTANT
+### [⏫⭐️ Scroll to the star button](#start-of-content)
+
+If you believe this project has potential, feel free to **star this repo** just like many [amazing people](/stargazers)
+have.
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+# ❗️ IMPORTANT
 This tool is meant to be used to download CC0 licensed content, we do not support nor recommend using it for illegal activities.
+<p align="right">(<a href="#top">back to top</a>)</p>
+

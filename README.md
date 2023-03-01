@@ -3,7 +3,7 @@
 
 <!-- PROJECT Intro -->
 
-![Oria](./assets/Oria.png)
+![Oria](./assets/Oria.jpg)
 
 <div align="center">
 
@@ -45,13 +45,13 @@ Here is a sneak peek of the application and it's visuals 😍:
 <table>
   <tr>
     <td>
-      <img src="./assets/home.png"
+      <img src="./assets/home.jpg"
         alt="Home" />
       <br />
       <p align="center">Home</p>
     </td>
     <td>
-      <img src="./assets/media-explorer.png"
+      <img src="./assets/media-explorer.jpg"
         alt="Media explorer" />
       <br />
       <p align="center">Media explorer</p>
@@ -60,13 +60,13 @@ Here is a sneak peek of the application and it's visuals 😍:
 
   <tr>
     <td>
-      <img src="./assets/stat.png"
+      <img src="./assets/stat.jpg"
         alt="Statistics" />
       <br />
       <p align="center">Statistics</p>
     </td>
     <td>
-      <img src="./assets/in-app-search.png"
+      <img src="./assets/in-app-search.jpg"
         alt="In app search" />
       <br />
       <p align="center">In app search</p>
@@ -75,13 +75,13 @@ Here is a sneak peek of the application and it's visuals 😍:
 
    <tr>
     <td>
-      <img src="./assets/s1.png"
+      <img src="./assets/s1.jpg"
         alt="Format drawer" />
       <br />
       <p align="center">Format drawer</p>
     </td>
     <td>
-      <img src="./assets/s2.png"
+      <img src="./assets/s2.jpg"
         alt="Expanded format drawer" />
       <br />
       <p align="center">Expanded format drawer</p>
@@ -92,15 +92,6 @@ Here is a sneak peek of the application and it's visuals 😍:
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-# 🤔 Why does Oria exist?
-
-After looking at all the `aka.ms` links out there which flood windows, along with the numerous time saving been prompted
-to buy premium plans from `bit.ly` while shortening my URLs, the decision of having a reliable, personal URL shortener
-hosted on a custom domain for free caught wind.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-<!-- GETTING STARTED -->
 
 # 💾 Installation
 
